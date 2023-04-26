@@ -1,2 +1,2 @@
 # Hotel-website
-Hotel Website
+Responsive Hotel Website
